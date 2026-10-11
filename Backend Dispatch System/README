@@ -1,0 +1,53 @@
+## Synopsis
+COMP1002 Final Assignment:
+ZipRide Dispatch System
+
+## Contents
+README - readme file for COMP1002 Final Assignment
+stack_queue.py - contains source code for Stack and Queue
+linked_list.py - contains source code for linked list. Used in DSAHashTable for chaining
+graph.py - contains source code for Graph
+hash_table.py - contains source code for Hash Table
+min_heap.py - used to create priority queue which was used to write code to implement dijkstra
+max_heap.py - contains source code for Heap (used to store passenger pickup requests based on highest priority
+advanced_sorting.py - contains source code for Sorting algorithms (Bubble Sort, Top down Merge Sort and Median of Three Quick Sort)
+conditions_module4.py - contains class with modules which return a copy of list input whose contents have been shuffled, another which
+                        displaces 10% of contents of input list copy(nearly sort)
+                        and reverses input list copy
+
+
+test_module1.py - contains test code for module 1
+
+test_module2.py - Demonstrate successful searches, deletions and insertions. Provides log of performance
+                  Demonstrates collision and load factor at every 10 insertions
+test_module2.csv - hash table with output from test_module2.py
+
+test_module3.py - contains test code for module 3
+
+test_module4.py - contains test code for module 4
+2000Pickup(module4).csv - contains 2000 passenger records used inside test_module4.py
+module4_driver_records.csv - contains 2000 driver records used inside test_module4.py
+
+passenger_driver_records.csv - stores 45 records of both passengers and drivers
+records_output.csv - stores the passenger and driver records after they are added to hash table
+
+passengers.csv - contains normal records for passengers
+drivers.csv - contains normal records for drivers
+passenger_hash_table.csv - contains passenger records after hashing (used in module 3: Heap)
+driver_hash_table.csv - contains driver records after hashing   (used in module 3: Heap)
+
+
+graph.png - snapshot of graph (all locations and roads with driving time)
+
+main.py - main code for ZipRide Dispatch System program
+## Dependencies
+networkx - used only for graph visualisation
+csv - used to read from and write into csv files
+
+Run python3 test_module1.py to test module 1
+Run python3 test_module2.py to test module 2
+Run python3 test_module3.py to test module 3
+Run python3 test_module4.py to test module 4
+Run python3 main.py which uses all modules
+## Version information
+<28/05/2026> - ZipRide Dispatch System

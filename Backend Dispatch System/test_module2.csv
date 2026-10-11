@@ -1,0 +1,108 @@
+INDEX   RECORD TYPE       KEY               NAME                   LOCATION              STATUS              
+0       
+1       Passenger      14778665          Cornell Uhri           School                 2                   
+2       
+3       Passenger      14481609          Amal Moznett           Mall                   4                   
+3       Driver         14094113          Jessie Leandro         School                 Available           
+4       
+5       
+6       
+7       Driver         14158835          Jamie Shake            Zoo                    Offline             
+7       Driver         14338567          Earnestine Croswell    Park                   Busy                
+8       
+9       
+10      
+11      
+12      Driver         14354152          Max Plain              Church                 Available           
+13      Passenger      14786148          Clinton Blumer         Church                 2                   
+14      
+15      
+16      
+17      Passenger      14397374          Esmeralda Radovich     Church                 1                   
+18      
+19      Passenger      14824429          Nelson Tooker          Park                   5                   
+20      
+21      Passenger      14644633          Maricela Landreneau    Park                   1                   
+22      Driver         14030930          Jessie Mayville        School                 Available           
+23      Driver         14973623          Christian Busbee       Supermarket            Offline             
+24      Driver         14032266          Kelly Cheatam          Mall                   Available           
+25      
+26      
+27      
+28      Driver         14129722          Edwina Esters          University             Offline             
+28      Passenger      14492026          Christian Mullarkey    Park                   2                   
+29      
+30      
+31      
+32      Driver         14286103          Dollie Dignan          Mall                   Available           
+33      
+34      
+35      
+36      Driver         14607868          Jamie Seager           Church                 Available           
+37      
+38      
+39      Passenger      14929292          Neil Brabant           Park                   1                   
+39      Driver         14650254          Althea Warring         University             Busy                
+40      
+41      
+42      Driver         14207712          Harriett Zollinger     Zoo                    Busy                
+42      Passenger      14770506          Christian Durall       Church                 1                   
+42      Driver         14476919          Ted Tallmadge          Park                   Available           
+43      Passenger      14393910          Cody Mcmartin          Suburbs                3                   
+44      
+45      
+46      
+47      
+48      
+49      Driver         14080040          Guy Loredo             Supermarket            Available           
+49      Passenger      14472268          Malinda Dodgen         University             1                   
+50      
+51      
+52      Passenger      14431660          Mathew Mercedes        Suburbs                1                   
+53      
+54      
+55      Passenger      14557200          Elinor Greig           Suburbs                4                   
+56      
+57      
+58      
+59      
+60      
+61      Driver         14827960          Katy Callier           Park                   Offline             
+62      Passenger      14147356          Elinor Raco            Supermarket            2                   
+63      
+64      
+65      
+66      
+67      Passenger      14593654          Mathew Milian          Zoo                    1                   
+68      
+69      Driver         14490422          Guy Kadel              Mall                   Busy                
+69      Passenger      14973358          Julio Degroat          Suburbs                5                   
+70      
+71      Driver         14151577          Nannie Mcgown          Zoo                    Busy                
+72      
+73      
+74      Driver         14355490          Tania Mogensen         Suburbs                Offline             
+75      Passenger      14541837          Karina Rossin          Zoo                    3                   
+75      Passenger      14224671          Ashlee Capellan        School                 5                   
+76      
+77      
+78      
+79      
+80      
+81      Passenger      14359796          Mathew Eslick          Mall                   4                   
+82      
+83      Passenger      14707100          Dona Mcinnes           Suburbs                3                   
+84      
+85      
+86      Driver         14478629          Ted Makuch             School                 Available           
+87      
+88      Driver         14088484          Khalilah Dittrick      Zoo                    Offline             
+88      Passenger      14799737          Katy Vacek             Suburbs                2                   
+89      
+90      Driver         14905261          Yuriko Stimer          Supermarket            Available           
+91      
+92      
+93      
+94      
+95      Driver         14277290          Clayton Ricard         Suburbs                Offline             
+96      
